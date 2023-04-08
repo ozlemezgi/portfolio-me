@@ -21,7 +21,7 @@ const Layout = ({title,description,children}) => {
 {/* buy me a coffee */}
 </Head>
         
-        <div className='relative z-10 px-3 overflow-hidden min-h-screen min-h-screen bg-primary-light antialiased font-montserrat dark:bg-gray-900 dark:text-white'>  
+        <div className='relative z-10 px-3 overflow-hidden min-h-screen bg-primary-light antialiased font-montserrat dark:bg-gray-900 dark:text-white'>  
         <div className='w-full h-full'>
           <Header></Header>
           {children}

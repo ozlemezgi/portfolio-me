@@ -50,7 +50,7 @@ export default function Home() {
         <section className="h-full max-w-5xl mx-auto pt-16 md:pt-8">
           <div className="flex flex-col items-center justify-center md:items-start">
             <h4 className="text-lg text-gray-800 dark:text-white">
-              <span className="text-xl font-normal">Hello,</span>I'am
+              <span className="text-xl font-normal">Hello,</span>I&#39;am
             </h4>
             <h1 className="mt-5 text-xl font-extrabold tracking-normal text-gray-800 uppercase md:text-4xl md:mt-3 dark:text-white">
               Özlem Ezgİ SARI
@@ -121,7 +121,7 @@ export default function Home() {
                   <p>
                     <span className="text-gray-500">&#47;&#47;</span>{" "}
                     <span className="text-purple-300">Todo:</span> You can drag
-                    these balloons I'm really in love with them 🎈🎈
+                    these balloons I am really in love with them 🎈🎈
                   </p>
 
                   <div className="flex items-center space-x-4">
@@ -140,7 +140,7 @@ export default function Home() {
                           frontendSkills
                         </span>{" "}
                         = [&#39;Reactjs&#39;, &#39;Nextjs&#39;,
-                        &#39;Graphql&#39;, "Nodejs"];{" "}
+                        &#39;Graphql&#39;, &#39;Nodejs&#39;];{" "}
                       </p>
                       <p className="text-sm">
                         <span className="text-pink-300"> {">"} </span> const
