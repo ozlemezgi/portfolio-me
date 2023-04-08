@@ -116,10 +116,10 @@ export default function Home() {
               <pre>
                 <code className="language-js">
                   <div className="flex items-center py-0 my-0 space-x-4 text-gray-500">
-                    <span>// Portfolio.js </span>
+                    <span>&#47;&#47;Portfolio.js </span>
                   </div>
                   <p>
-                    <span className="text-gray-500">//</span>{" "}
+                    <span className="text-gray-500">&#47;&#47;</span>{" "}
                     <span className="text-purple-300">Todo:</span> You can drag
                     these balloons I'm really in love with them 🎈🎈
                   </p>
@@ -139,13 +139,14 @@ export default function Home() {
                           {" "}
                           frontendSkills
                         </span>{" "}
-                        = ["Reactjs", "Nextjs", "Graphql", "Nodejs"];{" "}
+                        = [&#39;Reactjs&#39;, &#39;Nextjs&#39;,
+                        &#39;Graphql&#39;, "Nodejs"];{" "}
                       </p>
                       <p className="text-sm">
                         <span className="text-pink-300"> {">"} </span> const
                         techWeb
                         <span className="font-bold text-pink-300">3</span> =
-                        ["Solidity", "Web3.js", "Ethers.js"];{" "}
+                        [&#39;Solidity&#39;, &#39;Web3.js&#39;];{" "}
                       </p>
                     </div>
                   </div>
