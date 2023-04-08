@@ -4,6 +4,7 @@ import { motion } from "framer-motion";
 import Layout from "../components/Layout";
 import { Inter } from '@next/font/google';
 import Typewriter from 'typewriter-effect';
+import Image from "next/image";
 
 
 import GitHubIcon from "../components/icons/Github";
