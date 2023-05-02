@@ -121,8 +121,8 @@ export default function Home() {
                   </div>
                   <p>
                     <span className="text-gray-500">&#47;&#47;</span>{" "}
-                    <span className="text-purple-300">Todo:</span> You can drag
-                    these balloons I am really in love with them 🎈🎈
+                    <span className="text-purple-300">Todo:</span> You can
+                    contact me for any feedback regarding my projects.
                   </p>
 
                   <div className="flex items-center space-x-4">
@@ -140,14 +140,21 @@ export default function Home() {
                           {" "}
                           frontendSkills
                         </span>{" "}
-                        = [&#39;Reactjs&#39;, &#39;Nextjs&#39;,
-                        &#39;Graphql&#39;, &#39;Nodejs&#39;];{" "}
+                        = [&#39;JavaScript&#39;, &#39;Reactjs&#39;,
+                        &#39;NextJs&#39; &#39;HTML&#39;, &#39;CSS&#39;,
+                        <br />
+                        &#39;Boostrap&#39;, &#39;Tailwind&#39;];{" "}
                       </p>
                       <p className="text-sm">
                         <span className="text-pink-300"> {">"} </span> const
-                        techWeb
-                        <span className="font-bold text-pink-300">3</span> =
-                        [&#39;Solidity&#39;, &#39;Web3.js&#39;];{" "}
+                        <span className="font-bold text-pink-300">
+                          {" "}
+                          otherSkills
+                        </span>{" "}
+                        = [&#39;Python&#39;, &#39;Django&#39;, &#39;Dart&#39;,
+                        &#39;Delphi&#39;, &#39;C&#39;, &#39;SQL&#39;,
+                        <br />
+                        &#39;SQLite&#39;, &#39;SQflite&#39;,];{" "}
                       </p>
                     </div>
                   </div>
@@ -158,12 +165,10 @@ export default function Home() {
                     </Link>
 
                     <a
-                      href="https://github.com/ozlemezgi"
-                      target={"_blank"}
-                      rel="noopener noreferrer"
+                      href="mailto:ozlemezgisari@icloud.com"
                       className="transition duration-300"
                     >
-                      Youtube
+                      Mail
                     </a>
                   </div>
                 </code>
